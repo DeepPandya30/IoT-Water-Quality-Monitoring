@@ -14,6 +14,4 @@ You can also add the following sections to your GitHub project:
 
 📐 PCB Design Images
 
-🌐 Live Dashboard Link (ThingSpeak)
-
 📁 Code and Schematic Folder Structure
